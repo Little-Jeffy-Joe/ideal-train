@@ -1,7 +1,7 @@
 # ideal-train
   
  
-##the best game website!
+## the best game website!
 
 
 GAMES  
